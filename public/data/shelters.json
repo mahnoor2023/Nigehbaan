@@ -1,0 +1,42 @@
+[
+ {
+  "id": "S01",
+  "name": "Placeholder shelter 1",
+  "kind": "school",
+  "lat": 24.958894,
+  "lon": 67.211324,
+  "placeholder": true
+ },
+ {
+  "id": "S02",
+  "name": "Placeholder shelter 2",
+  "kind": "hospital",
+  "lat": 24.934894,
+  "lon": 67.214324,
+  "placeholder": true
+ },
+ {
+  "id": "S03",
+  "name": "Placeholder shelter 3",
+  "kind": "community_centre",
+  "lat": 24.961894,
+  "lon": 67.184324,
+  "placeholder": true
+ },
+ {
+  "id": "S04",
+  "name": "Placeholder shelter 4",
+  "kind": "school",
+  "lat": 24.932894,
+  "lon": 67.187324,
+  "placeholder": true
+ },
+ {
+  "id": "S05",
+  "name": "Placeholder shelter 5",
+  "kind": "place_of_worship",
+  "lat": 24.946894,
+  "lon": 67.199324,
+  "placeholder": true
+ }
+]
